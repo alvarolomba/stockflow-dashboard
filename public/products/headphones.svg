@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" role="img" aria-label="Wireless headphones">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#4b5563"/></linearGradient></defs>
+  <rect width="420" height="320" fill="#f8fafc"/>
+  <path d="M112 168c0-68 42-112 98-112s98 44 98 112" fill="none" stroke="url(#g)" stroke-width="28" stroke-linecap="round"/>
+  <rect x="78" y="156" width="70" height="104" rx="24" fill="#111827"/>
+  <rect x="272" y="156" width="70" height="104" rx="24" fill="#111827"/>
+  <rect x="96" y="176" width="34" height="64" rx="13" fill="#374151"/>
+  <rect x="290" y="176" width="34" height="64" rx="13" fill="#374151"/>
+  <path d="M148 238c38 22 86 22 124 0" fill="none" stroke="#2f6fbf" stroke-width="10" stroke-linecap="round"/>
+</svg>

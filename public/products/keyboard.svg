@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" role="img" aria-label="Keyboard">
+  <rect width="420" height="320" fill="#f8fafc"/>
+  <rect x="58" y="106" width="304" height="126" rx="18" fill="#1f2937"/>
+  <g fill="#e5e7eb"><rect x="82" y="130" width="34" height="24" rx="5"/><rect x="126" y="130" width="34" height="24" rx="5"/><rect x="170" y="130" width="34" height="24" rx="5"/><rect x="214" y="130" width="34" height="24" rx="5"/><rect x="258" y="130" width="34" height="24" rx="5"/><rect x="302" y="130" width="34" height="24" rx="5"/><rect x="82" y="166" width="44" height="24" rx="5"/><rect x="136" y="166" width="44" height="24" rx="5"/><rect x="190" y="166" width="44" height="24" rx="5"/><rect x="244" y="166" width="44" height="24" rx="5"/><rect x="298" y="166" width="38" height="24" rx="5"/><rect x="126" y="202" width="168" height="20" rx="5"/></g>
+  <path d="M76 246h268" stroke="#2f6fbf" stroke-width="8" stroke-linecap="round"/>
+</svg>

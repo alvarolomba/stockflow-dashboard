@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" role="img" aria-label="Barcode scanner">
+  <rect width="420" height="320" fill="#f8fafc"/>
+  <path d="M122 100h136c28 0 50 22 50 50v18H122z" fill="#111827"/>
+  <path d="M160 168h84l-26 94h-72z" fill="#374151"/>
+  <path d="M314 134h48" stroke="#2f6fbf" stroke-width="18" stroke-linecap="round"/>
+  <g stroke="#e5e7eb" stroke-width="8"><path d="M146 128v34"/><path d="M168 128v34"/><path d="M198 128v34"/><path d="M232 128v34"/><path d="M254 128v34"/></g>
+</svg>

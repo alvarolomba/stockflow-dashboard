@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" role="img" aria-label="Inventory box">
+  <rect width="420" height="320" fill="#f8fafc"/>
+  <path d="M92 112l118-56 118 56v124l-118 56-118-56z" fill="#d7e1ec"/>
+  <path d="M92 112l118 56 118-56M210 168v124" fill="none" stroke="#17202a" stroke-width="10" stroke-linejoin="round"/>
+  <path d="M154 82l118 56" stroke="#2f6fbf" stroke-width="10" stroke-linecap="round"/>
+</svg>
